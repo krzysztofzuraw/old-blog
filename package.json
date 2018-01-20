@@ -28,7 +28,7 @@
     "typography-theme-stern-grove": "^0.15.10"
   },
   "devDependencies": {
-    "prettier": "^1.6.1"
+    "prettier": "1.10.2"
   },
   "homepage": "https://krzysztofzuraw.com",
   "keywords": [
