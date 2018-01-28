@@ -40,14 +40,14 @@ class About extends React.Component {
           <li>
             <a href="https://krzysztofzuraw.github.io/all-roads-lead-to/">
               All roads lead to
-            </a>. Select a place & see that all roads lead there. {' '}
+            </a>. Select a place & see that all roads lead there.{' '}
             <a href="https://github.com/krzysztofzuraw/all-roads-lead-to">
               Source code
             </a>.
           </li>
           <li>
             <a href="https://poznaj-wroclaw.herokuapp.com/api/">Poznaj</a>.
-            Discover history of Wroclaw using your smartphone. {' '}
+            Discover history of Wroclaw using your smartphone.{' '}
             <a href="https://github.com/KlubJagiellonski/poznaj-app-backend">
               Source code
             </a>.
@@ -62,6 +62,12 @@ class About extends React.Component {
         </ul>
         <h3>My talks:</h3>
         <ul>
+          <li>
+            <a href="https://speakerdeck.com/krzysztofzuraw/lessons-learned-from-integrating-django-and-graphql">
+              Lessons learned from integrating Django & GraphQL (English).
+            </a>{' '}
+            Talk about a few lessons learned while working with GraphQL.
+          </li>
           <li>
             <a href="http://slides.com/noaal/deck">
               GeoDjango- kiedy GIS spotyka Django (Polish)
