@@ -88,7 +88,7 @@ class About extends React.Component {
             <a href="https://github.com/krzysztofzuraw">Github</a>
           </li>
           <li>
-            krzysztof.zuraw(at)fastmail.com or (even better via){' '}
+            krzysztofzuraw(at)fastmail.com or (even better via){' '}
             <a href="https://keybase.io/encrypt#krzysztofzuraw">Keybase</a>
           </li>
           <li>
