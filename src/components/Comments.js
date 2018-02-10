@@ -11,7 +11,7 @@ class Comments extends React.Component {
         }}
       >
         I turned off Disqus comments. If you want to give me feedback please
-        write to krzysztof.zuraw(at)fastmail.com or use{' '}
+        write to krzysztofzuraw(at)fastmail.com or use{' '}
         <a href="https://keybase.io/encrypt#krzysztofzuraw">Keybase</a>.
       </p>
     )

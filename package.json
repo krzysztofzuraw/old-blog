@@ -2,7 +2,7 @@
   "name": "krzysztof-zuraw-blog",
   "description": "Krzysztof Żuraw Blog",
   "version": "1.0.0",
-  "author": "Krzysztof Żuraw <krzysztof.zuraw@gmail.com>",
+  "author": "Krzysztof Żuraw <krzysztofzuraw@fastmail.com>",
   "dependencies": {
     "gatsby": "^1.9.45",
     "gatsby-link": "^1.6.17",
