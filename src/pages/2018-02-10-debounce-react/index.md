@@ -7,6 +7,7 @@ tags:
     - react
     - redux
     - debounce
+readNext: '/blog/2018/debouncing-forms-in-react-part-two.html'
 ---
 
 **Hi! Today I want to start a new blog post series. This one will be all about debouncing react forms.
