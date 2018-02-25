@@ -30,7 +30,7 @@ class Bio extends React.Component {
             Krzysztof Żuraw
           </Link>
         </strong>. Opinions are my own. You can follow updates via{' '}
-        <Link style={{ boxShadow: 'none' }} to={'/rss.xml'}>
+        <Link style={{ boxShadow: 'none' }} to={'/rss.xml'} target="_blank">
           RSS feed
         </Link>{' '}
         or{' '}
