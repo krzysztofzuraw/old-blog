@@ -8,6 +8,7 @@ tags:
     - redux
     - debounce
 readPrev: '/blog/2018/debouncing-forms-in-react-part-one.html'
+readNext: '/blog/2018/debouncing-forms-in-react-part-three.html'
 ---
 
 **Hello! Today I continue with building debounce input in React!. Let's get started.**
