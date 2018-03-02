@@ -6,6 +6,7 @@ import get from 'lodash/get'
 import Bio from '../components/Bio'
 import Comments from '../components/Comments'
 import BlogSeries from '../components/BlogSeries'
+import Newsletter from '../components/Newsletter'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
@@ -57,6 +58,12 @@ class BlogPostTemplate extends React.Component {
           readNext={this.props.data.markdownRemark.frontmatter.readNext}
           readPrev={this.props.data.markdownRemark.frontmatter.readPrev}
         />
+        <hr
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        />
+        <Newsletter />
         <hr
           style={{
             marginBottom: rhythm(1),
