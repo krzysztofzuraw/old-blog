@@ -34,9 +34,9 @@ class Bio extends React.Component {
           RSS feed
         </Link>{' '}
         or{' '}
-        <a href="https://mailchi.mp/1d8cb594e02a/krzysztof-zuraw-monthly-newsletter">
+        <Link style={{ boxShadow: 'none' }} to={'/newsletter'}>
           monthly email newsletter
-        </a>.
+        </Link>
       </p>
     )
   }
