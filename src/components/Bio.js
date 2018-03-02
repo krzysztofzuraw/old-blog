@@ -32,11 +32,7 @@ class Bio extends React.Component {
         </strong>. Opinions are my own. You can follow updates via{' '}
         <Link style={{ boxShadow: 'none' }} to={'/rss.xml'} target="_blank">
           RSS feed
-        </Link>{' '}
-        or{' '}
-        <Link style={{ boxShadow: 'none' }} to={'/newsletter'}>
-          monthly email newsletter
-        </Link>
+        </Link>.
       </p>
     )
   }
