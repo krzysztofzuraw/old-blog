@@ -10,11 +10,17 @@ class About extends React.Component {
         <Helmet title={'About'} />
         <h1>About an author</h1>
         <div>
-          I'm currently living in Wrocław, Poland where I work as a Python and
-          Javascript developer at <a href="https://stxnext.com/">STX Next</a>.
+          I'm currently living in Wrocław, Poland where I work as a
+          <del>
+            {' '}
+            Python and Javascript developer at{' '}
+            <a href="https://stxnext.com/">STX Next</a>
+          </del>{' '}
+          Javascript developer at{' '}
+          <a href="http://www.shipwallet.com/">Ingrid</a>.
         </div>
         <div>
-          Besides coding, I'm a passionate toastmaster at{' '}
+          Besides coding, I'm a toastmaster at{' '}
           <a href="https://www.facebook.com/wroclovespeakers">
             Wroclove Speakers
           </a>. I am keen on running, meeting new people and doing some street
@@ -59,9 +65,22 @@ class About extends React.Component {
               Source code
             </a>.
           </li>
+          <li>
+            <a href="https://photogram-kz.herokuapp.com/">Photogram</a>.
+            Instagram for unsplash in ReactJS with Redux.{' '}
+            <a href="https://github.com/krzysztofzuraw/photogram">
+              Source code
+            </a>.
+          </li>
         </ul>
         <h3>My talks:</h3>
         <ul>
+          <li>
+            <a href="https://speakerdeck.com/krzysztofzuraw/solutions-reviews">
+              Solutions reviews.
+            </a>{' '}
+            Talk about solutions reviews concept.
+          </li>
           <li>
             <a href="https://speakerdeck.com/krzysztofzuraw/lessons-learned-from-integrating-django-and-graphql">
               Lessons learned from integrating Django & GraphQL (English).

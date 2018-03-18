@@ -28,7 +28,8 @@
     "typography-theme-stern-grove": "^0.15.10"
   },
   "devDependencies": {
-    "prettier": "1.10.2"
+    "prettier": "1.10.2",
+    "eslint": "^4.19.0"
   },
   "homepage": "https://krzysztofzuraw.com",
   "keywords": [
