@@ -1,7 +1,7 @@
 ---
 title: Legacy projects
 date: "2018-01-20T10:12:03.284Z"
-path: "/blog/2018/legacy-projects.html"
+slug: "/blog/2018/legacy-projects.html"
 tags:
     - legacy
     - projects

@@ -1,7 +1,7 @@
 ---
 title: Python Belgrade
 date: "2018-01-28T10:12:03.284Z"
-path: "/blog/2018/python-belgrade.html"
+slug: "/blog/2018/python-belgrade.html"
 tags:
     - meetup
     - python

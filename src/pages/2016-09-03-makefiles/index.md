@@ -1,7 +1,7 @@
 ---
 title: Makefiles in python projects
 date: '2016-09-03T10:00Z'
-path: '/blog/2016/makefiles-in-python-projects.html'
+slug: '/blog/2016/makefiles-in-python-projects.html'
 tags: 
     - python
     - make

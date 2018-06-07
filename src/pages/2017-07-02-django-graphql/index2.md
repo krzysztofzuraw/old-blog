@@ -1,7 +1,7 @@
 ---
 title: Monorepo structure for Django & React Applications
 date: '2017-08-20T10:00Z'
-path: '/blog/2017/monorepo-structure.html'
+slug: '/blog/2017/monorepo-structure.html'
 tags: 
     - django
     - python

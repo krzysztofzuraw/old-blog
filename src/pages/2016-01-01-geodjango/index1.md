@@ -1,7 +1,7 @@
 ---
 title: GeoDjango and Leaflet.js- part two
 date: "2016-01-08T10:20Z"
-path: "/blog/2016/geodjango-leaflet-part-two.html"
+slug: "/blog/2016/geodjango-leaflet-part-two.html"
 tags: 
     - django
     - leaflet.js

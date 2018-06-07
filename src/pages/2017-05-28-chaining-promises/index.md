@@ -1,7 +1,7 @@
 ---
 title: Chaining promises in JavaScript
 date: '2017-05-28T10:00Z'
-path: '/blog/2017/chaining-promises-in-javascript.html'
+slug: '/blog/2017/chaining-promises-in-javascript.html'
 tags: 
     - javascript
     - promise

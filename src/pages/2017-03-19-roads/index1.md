@@ -1,7 +1,7 @@
 ---
 title: On building application using Google Maps API
 date: '2017-03-26T10:00Z'
-path: '/blog/2017/building-application-using-google-maps-api.html'
+slug: '/blog/2017/building-application-using-google-maps-api.html'
 tags: 
     - javascript
     - google maps

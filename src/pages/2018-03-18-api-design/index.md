@@ -1,7 +1,7 @@
 ---
 title: How design of your API can affect others
 date: "2018-03-18T10:12:03.284Z"
-path: "/blog/2018/design-your-api.html"
+slug: "/blog/2018/design-your-api.html"
 tags:
     - javascript
 ---

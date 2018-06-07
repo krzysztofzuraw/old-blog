@@ -1,7 +1,7 @@
 ---
 title: My first personal project
 date: '2016-05-14T10:20Z'
-path: '/blog/2016/my-first-personal-project.html'
+slug: '/blog/2016/my-first-personal-project.html'
 tags: 
     - python
     - histmag

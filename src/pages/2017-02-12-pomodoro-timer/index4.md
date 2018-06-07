@@ -1,7 +1,7 @@
 ---
 title: Pomodoro timer - how good was your pomodoro?
 date: '2017-03-12T10:00Z'
-path: '/blog/2017/pomodoro-timer-how-good-was-your-pomodoro.html'
+slug: '/blog/2017/pomodoro-timer-how-good-was-your-pomodoro.html'
 tags: 
     - javascript
     - pomodoro technique

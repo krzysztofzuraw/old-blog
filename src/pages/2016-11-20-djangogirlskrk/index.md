@@ -1,7 +1,7 @@
 ---
 title: Django Girls- Kraków #3
 date: '2016-11-20T14:00Z'
-path: '/blog/2016/django-girls-krakow-3.html'
+slug: '/blog/2016/django-girls-krakow-3.html'
 tags: 
     - django
     - workshop

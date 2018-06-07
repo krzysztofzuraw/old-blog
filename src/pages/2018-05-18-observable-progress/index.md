@@ -1,7 +1,7 @@
 ---
 title: How to update progress of long request with redux-observable
 date: "2018-05-19T09:12:03.284Z"
-path: "/blog/2018/update-progress-rxjs.html"
+slug: "/blog/2018/update-progress-rxjs.html"
 tags:
     - rxjs
     - redux

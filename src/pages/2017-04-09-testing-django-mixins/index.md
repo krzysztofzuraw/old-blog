@@ -1,7 +1,7 @@
 ---
 title: Testing django mixins
 date: '2017-04-09T10:00Z'
-path: '/blog/2017/how-to-test-django-mixins.html'
+slug: '/blog/2017/how-to-test-django-mixins.html'
 tags: 
     - testing
     - django

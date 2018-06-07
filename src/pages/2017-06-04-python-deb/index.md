@@ -2,7 +2,7 @@
 title: Building python packages for debian
 category: blog
 date: '2017-06-04T10:00Z'
-path: '/blog/2017/building-python-packages-for-debian.html'
+slug: '/blog/2017/building-python-packages-for-debian.html'
 tags:
     - python
     - debian

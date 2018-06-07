@@ -1,7 +1,7 @@
 ---
 title: Python imports validation
 date: '2017-09-24T10:00Z'
-path: '/blog/2017/python-imports-validation.html'
+slug: '/blog/2017/python-imports-validation.html'
 tags:
     - python
     - import

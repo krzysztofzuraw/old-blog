@@ -18,7 +18,9 @@ function TagPage(props) {
     <div>
       <Helmet title={title} />
       <h2>
-        {props.data.allMarkdownRemark.totalCount} posts tagged with “{props.pathContext.tag}”
+        {props.data.allMarkdownRemark.totalCount} posts tagged with “{
+          props.pathContext.tag
+        }”
       </h2>
       <ul>{postLinks}</ul>
       <p>
@@ -47,7 +49,7 @@ export const pageQuery = graphql`
         node {
           id
           frontmatter {
-            path
+            slug
             title
           }
         }

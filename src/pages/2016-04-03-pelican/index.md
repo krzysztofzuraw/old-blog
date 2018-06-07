@@ -1,7 +1,7 @@
 ---
 title: Moving blog to pelican
 date: '2016-04-03T10:20Z'
-path: '/blog/2016/moving-blog-to-pelican.html'
+slug: '/blog/2016/moving-blog-to-pelican.html'
 tags: 
     - pelican
     - jekyll

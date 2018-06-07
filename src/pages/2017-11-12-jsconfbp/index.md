@@ -1,7 +1,7 @@
 ---
 title: Javascript Conference Budapest 2017
 date: "2017-11-12T22:12:03.284Z"
-path: "/blog/2017/jsconfbp2017.html"
+slug: "/blog/2017/jsconfbp2017.html"
 tags:
     - javascript
     - conference

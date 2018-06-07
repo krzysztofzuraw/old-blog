@@ -1,7 +1,7 @@
 ---
 title: Mutations in Relay Modern
 date: '2018-01-06T10:00Z'
-path: '/blog/2018/mutations-in-relay-modern.html'
+slug: '/blog/2018/mutations-in-relay-modern.html'
 tags:
     - graphql
     - relay

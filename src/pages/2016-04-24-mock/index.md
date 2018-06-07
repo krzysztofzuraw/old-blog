@@ -1,7 +1,7 @@
 ---
 title: Mocks and monkeypatching in python
 date: '2016-04-24T10:20Z'
-path: '/blog/2016/mocks-monkeypatching-in-python.html'
+slug: '/blog/2016/mocks-monkeypatching-in-python.html'
 tags: 
     - python
     - testing

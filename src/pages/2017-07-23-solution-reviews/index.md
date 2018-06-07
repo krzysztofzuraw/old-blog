@@ -1,7 +1,7 @@
 ---
 title: Solutions reviews
 date: '2017-07-23T08:00Z'
-path: '/blog/2017/solutions-reviews.html'
+slug: '/blog/2017/solutions-reviews.html'
 tags:
     - programming
     - review

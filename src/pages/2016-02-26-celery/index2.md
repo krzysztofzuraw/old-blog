@@ -1,7 +1,7 @@
 ---
 title: Django + Celery & Rabbit - part three
 date: '2016-03-12T10:20Z'
-path: '/blog/2016/django-celery-rabbit-part-three.html'
+slug: '/blog/2016/django-celery-rabbit-part-three.html'
 tags: 
     - django
     - celery

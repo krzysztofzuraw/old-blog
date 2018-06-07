@@ -1,7 +1,7 @@
 ---
 title: Lessons learned from coding TM Conference website
 date: "2018-04-28T10:12:03.284Z"
-path: "/blog/2018/lessons-learned-from-tm-conference-website.html"
+slug: "/blog/2018/lessons-learned-from-tm-conference-website.html"
 tags:
     - html
     - css

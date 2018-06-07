@@ -1,7 +1,7 @@
 ---
 title: Lessons learned from writing pet project in React with Redux
 date: "2018-04-21T10:12:03.284Z"
-path: "/blog/2018/lessons-learned-from-react-app.html"
+slug: "/blog/2018/lessons-learned-from-react-app.html"
 tags:
     - javascript
     - react

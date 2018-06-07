@@ -1,7 +1,7 @@
 ---
 title: Testing React form components
 date: '2017-06-11T22:12:03.284Z'
-path: '/blog/2017/testing-react-form-components.html'
+slug: '/blog/2017/testing-react-form-components.html'
 tags:
     - react
     - javascript

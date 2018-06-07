@@ -1,7 +1,7 @@
 ---
 title: How to dispatch multiple actions based on api call in redux-observable
 date: "2018-05-11T10:12:03.284Z"
-path: "/blog/2018/dispatch-actions-on-api.html"
+slug: "/blog/2018/dispatch-actions-on-api.html"
 tags:
     - rxjs
     - redux

@@ -1,7 +1,7 @@
 ---
 title: Python & WebDAV- part one
 date: '2016-09-11T10:00Z'
-path: '/blog/2016/python-webdav-part-one.html'
+slug: '/blog/2016/python-webdav-part-one.html'
 tags: 
     - webdav
     - python

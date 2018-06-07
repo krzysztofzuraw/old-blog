@@ -1,7 +1,7 @@
 ---
 title: Moving to Relay in Django backend
 date: '2017-09-03T10:00Z'
-path: '/blog/2017/moving-to-relay-in-django-backend.html'
+slug: '/blog/2017/moving-to-relay-in-django-backend.html'
 tags: 
     - django
     - python

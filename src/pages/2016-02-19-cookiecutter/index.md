@@ -1,7 +1,7 @@
 ---
 title: Django cookiecutter
 date: '2016-02-19T10:20Z'
-path: '/blog/2016/django-cookiecutter.html'
+slug: '/blog/2016/django-cookiecutter.html'
 tags: 
     - django
     - automation

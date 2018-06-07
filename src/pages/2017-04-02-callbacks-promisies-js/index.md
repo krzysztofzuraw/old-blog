@@ -1,7 +1,7 @@
 ---
 title: Callbacks & promises in JS for newbies
 date: '2017-04-02T10:00Z'
-path: '/blog/2017/callbacks-promises-in-js-for-newbies.html'
+slug: '/blog/2017/callbacks-promises-in-js-for-newbies.html'
 tags:
     - javascript
     - callbacks

@@ -1,7 +1,7 @@
 ---
 title: Summary of 2017
 date: "2017-12-29T11:12:03.284Z"
-path: "/blog/2017/2017-summary.html"
+slug: "/blog/2017/2017-summary.html"
 tags:
     - review
     - blogging

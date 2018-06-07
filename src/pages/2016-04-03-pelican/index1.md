@@ -1,7 +1,7 @@
 ---
 title: Automatic blog deployment with TravisCI
 date: '2016-04-09T10:20Z'
-path: '/blog/2016/automatic-blog-deployment-with-travis.html'
+slug: '/blog/2016/automatic-blog-deployment-with-travis.html'
 tags: 
   - pelican
   - travis

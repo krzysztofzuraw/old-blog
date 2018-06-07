@@ -1,7 +1,7 @@
 ---
 title: New blog series - all roads lead to
 date: '2017-03-19T10:00Z'
-path: '/blog/2017/all-roads-lead-to.html'
+slug: '/blog/2017/all-roads-lead-to.html'
 tags: 
     - javascript
     - google maps

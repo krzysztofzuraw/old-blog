@@ -1,7 +1,7 @@
 ---
 title: Two forms one view in django
 date: '2016-06-26T10:20Z'
-path: '/blog/2016/two-forms-one-view-django.html'
+slug: '/blog/2016/two-forms-one-view-django.html'
 tags: 
     - django
     - forms

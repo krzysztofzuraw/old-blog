@@ -1,7 +1,7 @@
 ---
 title: Django Under The Hood 2016 recap
 date: '2016-11-06T20:00Z'
-path: '/blog/2016/duth-2016-recap.html'
+slug: '/blog/2016/duth-2016-recap.html'
 tags: 
     - django
     - conference

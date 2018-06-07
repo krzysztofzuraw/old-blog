@@ -1,7 +1,7 @@
 ---
 title: My thoughts on blogging
 date: '2016-08-26T10:00Z'
-path: '/blog/2016/my-thoughts-on-blogging.html'
+slug: '/blog/2016/my-thoughts-on-blogging.html'
 tags: 
     - blogging
 ---

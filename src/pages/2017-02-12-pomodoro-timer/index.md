@@ -1,7 +1,7 @@
 ---
 title: Pomodoro timer - beginning
 date: '2017-02-12T10:00Z'
-path: '/blog/2017/pomodoro-timer-beginning.html'
+slug: '/blog/2017/pomodoro-timer-beginning.html'
 tags: 
     - javascript
     - pomodoro technique

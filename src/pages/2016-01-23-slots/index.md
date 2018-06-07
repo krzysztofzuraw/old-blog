@@ -1,7 +1,7 @@
 ---
 title: Python __slots__
 date: '2016-01-23T10:20Z'
-path: 'blog/2016/python-slots.html'
+slug: 'blog/2016/python-slots.html'
 tags: 
     - python
     - slots

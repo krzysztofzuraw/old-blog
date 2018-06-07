@@ -1,7 +1,7 @@
 ---
 title: Provisioning django application using ansible
 date: '2017-01-29T10:00Z'
-path: '/blog/2017/provisioning-django-application-ansible.html'
+slug: '/blog/2017/provisioning-django-application-ansible.html'
 tags: 
     - django
     - ansible
@@ -205,7 +205,7 @@ completes ansible will execute `geodjango` role:
 
 - name: ensure config dir for supervisor extists
   file:
-    path: /etc/supervisor/conf.d
+    slug: /etc/supervisor/conf.d
     state: directory
 
 - name: ensure supervisor config is present

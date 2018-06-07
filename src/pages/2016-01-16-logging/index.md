@@ -1,7 +1,7 @@
 ---
 title: Http and websockets logging handlers
 date: '2016-01-16T10:20Z'
-path: 'blog/2016/http-websockets-logging-handlers.html'
+slug: 'blog/2016/http-websockets-logging-handlers.html'
 tags: 
     - python
     - logging

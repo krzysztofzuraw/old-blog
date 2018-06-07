@@ -1,7 +1,7 @@
 ---
 title: 100 days of code
 date: "2017-12-23T15:12:03.284Z"
-path: "/blog/2017/100days.html"
+slug: "/blog/2017/100days.html"
 tags:
     - challenge
     - 100days

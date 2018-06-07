@@ -1,7 +1,7 @@
 ---
 title: Ports and Adapters in python - part two
 date: '2016-06-05T10:20Z'
-path: '/blog/2016/ports-and-adapters-in-python-part-two.html'
+slug: '/blog/2016/ports-and-adapters-in-python-part-two.html'
 tags: 
     - django
     - python

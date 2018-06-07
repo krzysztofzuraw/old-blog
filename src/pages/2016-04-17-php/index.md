@@ -1,7 +1,7 @@
 ---
 title: My first workshop experience
 date: '2016-04-17T10:20Z'
-path: '/blog/2016/my-first-workshop experience.html'
+slug: '/blog/2016/my-first-workshop experience.html'
 tags: 
     - python
 ---

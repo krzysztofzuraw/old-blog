@@ -6,7 +6,6 @@ import Helmet from 'react-helmet'
 import Bio from '../components/Bio'
 import { rhythm } from '../utils/typography'
 
-
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -62,7 +61,7 @@ export const pageQuery = graphql`
         node {
           excerpt
           frontmatter {
-            path
+            slug
             date(formatString: "DD MMMM, YYYY")
           }
           frontmatter {

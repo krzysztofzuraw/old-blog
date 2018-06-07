@@ -1,7 +1,7 @@
 ---
 title: Lessons learned from being a mentor
 date: '2017-07-15T08:00Z'
-path: '/blog/2017/lessons-learned-from-being-a-mentor.html'
+slug: '/blog/2017/lessons-learned-from-being-a-mentor.html'
 tags: 
     - python
     - mentoring

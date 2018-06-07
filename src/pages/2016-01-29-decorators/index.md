@@ -1,7 +1,7 @@
 ---
 title: Python class @decorators
 date: '2016-01-29T10:20Z'
-path: '/blog/2016/python-class-decorators.html'
+slug: '/blog/2016/python-class-decorators.html'
 tags: 
     - python
     - classes

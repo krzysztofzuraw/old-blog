@@ -1,7 +1,7 @@
 ---
 title: Review of 2016
 date: '2017-01-08T10:00Z'
-path: '/blog/2017/2016-review.html'
+slug: '/blog/2017/2016-review.html'
 tags: 
     - blogging
     - review

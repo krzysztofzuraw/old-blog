@@ -1,7 +1,7 @@
 ---
 title: Debouncing forms in React with Redux - part three
 date: "2018-02-25T09:12:03.284Z"
-path: "/blog/2018/debouncing-forms-in-react-part-three.html"
+slug: "/blog/2018/debouncing-forms-in-react-part-three.html"
 tags:
     - javascript
     - react

@@ -1,7 +1,7 @@
 ---
 title: Microservices in Flask
 date: '2016-10-09T09:00Z'
-path: '/blog/2016/microservices-in-flask.blog'
+slug: '/blog/2016/microservices-in-flask.blog'
 tags: 
     - flask
     - python

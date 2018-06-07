@@ -1,7 +1,7 @@
 ---
 title: On moving blog to Gatsby.js
 date: "2017-11-04T09:12:03.284Z"
-path: "/blog/2017/moving-blog-to-gatsby.html"
+slug: "/blog/2017/moving-blog-to-gatsby.html"
 tags:
     - blog
     - javascript

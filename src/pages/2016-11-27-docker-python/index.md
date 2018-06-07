@@ -1,7 +1,7 @@
 ---
 title: Docker.py- python API for Docker'
 date: '2016-11-27T10:00Z'
-path: '/blog/2016/docker-py.html'
+slug: '/blog/2016/docker-py.html'
 tags: 
     - python
     - docker

@@ -1,7 +1,7 @@
 ---
 title: Factory pattern in python
 date: '2016-08-07T10:20Z'
-path: '/blog/2016/factory-pattern-python.html'
+slug: '/blog/2016/factory-pattern-python.html'
 tags: 
     - python
     - factory

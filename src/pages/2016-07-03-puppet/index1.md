@@ -1,7 +1,7 @@
 ---
 title: Django application with puppet- part two
 date: '2016-07-09T08:00Z'
-path: '/blog/2016/django-application-puppet-part-two.html'
+slug: '/blog/2016/django-application-puppet-part-two.html'
 tags: 
   - django
   - puppet

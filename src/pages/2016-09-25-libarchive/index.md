@@ -1,7 +1,7 @@
 ---
 title: Archives from memory- libarchive
 date: '2016-09-25T09:00Z'
-path: '/blog/2016/archives-from-memory.html'
+slug: '/blog/2016/archives-from-memory.html'
 tags: 
     - python
     - archive

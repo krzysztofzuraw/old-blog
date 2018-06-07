@@ -1,7 +1,7 @@
 ---
 title: Transcoding with AWS- part three
 date: '2016-12-18T10:00Z'
-path: '/blog/2016/transcoding-aws-part-three.html'
+slug: '/blog/2016/transcoding-aws-part-three.html'
 tags:
     - django
     - aws

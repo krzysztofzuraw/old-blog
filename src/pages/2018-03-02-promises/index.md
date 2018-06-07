@@ -1,7 +1,7 @@
 ---
 title: You don't know promises
 date: "2018-03-02T10:12:03.284Z"
-path: "/blog/2018/you-do-not-know-promises.html"
+slug: "/blog/2018/you-do-not-know-promises.html"
 tags:
     - javascript
     - promises

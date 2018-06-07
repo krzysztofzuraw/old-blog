@@ -1,7 +1,7 @@
 ---
 title: Fragments and queries in Relay Modern
 date: '2017-12-09T10:00Z'
-path: '/blog/2017/fragments-queries-in-relay-modern.html'
+slug: '/blog/2017/fragments-queries-in-relay-modern.html'
 tags:
     - graphql
     - relay

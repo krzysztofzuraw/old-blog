@@ -1,7 +1,7 @@
 ---
 title: Design by contract in python- part two
 date: '2016-07-23T10:00Z'
-path: '/blog/2016/design-by-contract-in-python-part-two.html'
+slug: '/blog/2016/design-by-contract-in-python-part-two.html'
 tags: 
     - python
     - design

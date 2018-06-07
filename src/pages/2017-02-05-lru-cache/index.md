@@ -1,7 +1,7 @@
 ---
 title: Gunicorn & LRU cache pitfall
 date: '2017-02-05T10:00Z'
-path: '/blog/2017/gunicorn-lru-cache-pitfall.html'
+slug: '/blog/2017/gunicorn-lru-cache-pitfall.html'
 tags: 
     - python
     - lru cache

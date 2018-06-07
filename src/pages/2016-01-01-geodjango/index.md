@@ -1,7 +1,7 @@
 ---
 title: GeoDjango and Leaflet.js- part one
 date: "2016-01-01T22:12:03.284Z"
-path: "/blog/2016/geodjango-leaflet-part-one.html"
+slug: "/blog/2016/geodjango-leaflet-part-one.html"
 tags: 
     - django 
     - leaflet.js
@@ -58,7 +58,7 @@ DATABASES = {
 }
 ```
 
-and modify INSTALLED\_APPS:
+and modify INSTALLED_APPS:
 
 ```python
 INSTALLED_APPS = (
@@ -418,8 +418,6 @@ Then import load.py in django shell and run `point_load()`.
 Ok, that's all for this post. Stay tuned for the next part where I show
 how display data on actual map.
 
+## Update 08.01.16:
 
-Update 08.01.16:
-----------------
-
--   Fixing grammar errors. Thank you Adrianna!
+* Fixing grammar errors. Thank you Adrianna!

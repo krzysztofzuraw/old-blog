@@ -1,7 +1,7 @@
 ---
 title: Don't use defaults
 date: '2017-05-07T10:00Z'
-path: '/blog/2017/dont-use-defaults.html'
+slug: '/blog/2017/dont-use-defaults.html'
 tags: 
     - opinion
 ---

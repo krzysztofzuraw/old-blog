@@ -1,7 +1,7 @@
 ---
 title: Pomodoro timer - notifications
 date: '2017-02-26T10:00Z'
-path: '/blog/2017/pomodoro-timer-notifications.html'
+slug: '/blog/2017/pomodoro-timer-notifications.html'
 tags: 
     - javascript
     - pomodoro technique

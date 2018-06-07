@@ -1,7 +1,7 @@
 ---
 title: Django and nginx file proxy - part two
 date: '2017-05-21T10:00Z'
-path: '/blog/2017/django-nginx-file-proxy-part-two.html'
+slug: '/blog/2017/django-nginx-file-proxy-part-two.html'
 tags:
     - django
     - nginx

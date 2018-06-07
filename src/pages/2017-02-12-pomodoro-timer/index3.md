@@ -1,7 +1,7 @@
 ---
 title: Pomodoro timer - breaks & localStorage
 date: '2017-03-05T10:00Z'
-path: '/blog/2017/pomodoro-timer-breaks-localstorage.html'
+slug: '/blog/2017/pomodoro-timer-breaks-localstorage.html'
 tags: 
     - javascript
     - pomodoro technique

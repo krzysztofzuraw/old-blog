@@ -1,7 +1,7 @@
 ---
 title: PyConPL 2016
 date: '2016-10-16T10:00Z'
-path: '/blog/2016/pyconpl-2016.html'
+slug: '/blog/2016/pyconpl-2016.html'
 tags: 
     - python
     - conference

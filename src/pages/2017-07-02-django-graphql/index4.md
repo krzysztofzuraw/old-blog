@@ -1,7 +1,7 @@
 ---
 title: Setting up Relay Modern on frontend
 date: '2017-11-25T10:00Z'
-path: '/blog/2017/setting-up-relay-modern-on-fe.html'
+slug: '/blog/2017/setting-up-relay-modern-on-fe.html'
 tags: 
     - django
     - python

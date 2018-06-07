@@ -1,7 +1,7 @@
 ---
 title: JSON Web Tokens in django application- part three
 date: '2016-10-30T09:00Z'
-path: '/blog/2016/jwt-in-django-application-part-three.html'
+slug: '/blog/2016/jwt-in-django-application-part-three.html'
 tags: 
     - python
     - django

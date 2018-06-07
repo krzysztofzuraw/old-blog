@@ -1,7 +1,7 @@
 ---
 title: switchMap in redux-observable
 date: "2018-06-02T09:12:03.284Z"
-path: "/blog/2018/switchmap-redux-observable.html"
+slug: "/blog/2018/switchmap-redux-observable.html"
 tags:
     - rxjs
     - redux

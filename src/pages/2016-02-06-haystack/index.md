@@ -1,7 +1,7 @@
 ---
 title: Django Haystack and Elasticsearch- part one
 date: '2016-02-06T10:20Z'
-path: '/blog/2016/haystack-elasticsearch-part-one.html'
+slug: '/blog/2016/haystack-elasticsearch-part-one.html'
 tags: 
     - django
     - elasticsearch
