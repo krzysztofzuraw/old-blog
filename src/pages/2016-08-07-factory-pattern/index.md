@@ -23,11 +23,11 @@ exchange](http://programmers.stackexchange.com/questions/253254/why-should-i-use
 > It allows for a more decoupled - and therefore more testable - design.
 > (...)
 >
-> -   It allows you to introduce an IoC container easily
-> -   It makes your code more testable as you can mock interfaces
-> -   It gives you a lot more flexibility when it comes time to change
->     the application (i.e. you can create new implementations without
->     changing the dependent code)
+> * It allows you to introduce an IoC container easily
+> * It makes your code more testable as you can mock interfaces
+> * It gives you a lot more flexibility when it comes time to change
+>   the application (i.e. you can create new implementations without
+>   changing the dependent code)
 
 As we know why to use it let's jump into the code:
 
@@ -92,7 +92,8 @@ class ArchiveManager(object):
     ARCHIVE_ENGINES = [ZIPArchive, TARArchive]
 
     def __init__(self, location_path, files_to_pack):
-        self.location_path, self.extension = os.path.splitext(location_path)
+        self.location_path = location_path
+        _, self.extension = os.path.splitext(location_path)
         self.files_to_pack = files_to_pack
         self.archive_engine = self.choose_archive_engine()
 
@@ -135,12 +136,14 @@ code for this is available in this
 Do you know more usages? Or maybe you don't agree with what I write-
 feel free to comment.
 
-Edits (12.08.2016):
--------------------
+## Edits (12.08.2016):
 
--   Refactor of `check_extenstion` method
+* Refactor of `check_extenstion` method
 
-Edits (30.07.2017):
--------------------
+## Edits (30.07.2017):
 
--   Add missing EXTENSION parameter (by Jayesh Pawar)
+* Add missing EXTENSION parameter (by Jayesh Pawar)
+
+## Edits (07.06.2018):
+
+* Fixed this [bug](https://github.com/krzysztofzuraw/blog-projects/issues/1) - thanks to [con-f-use](https://github.com/con-f-use)

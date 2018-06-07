@@ -17,9 +17,9 @@ class BlogIndex extends React.Component {
         <Bio />
         {posts.map(post => {
           if (post.node.path !== '/404/') {
-            const title = get(post, 'node.frontmatter.title') || post.node.path
+            const title = get(post, 'node.frontmatter.title') || post.node.slug
             return (
-              <div key={post.node.frontmatter.path}>
+              <div key={post.node.frontmatter.slug}>
                 <h3
                   style={{
                     marginBottom: rhythm(1 / 4),
@@ -27,7 +27,7 @@ class BlogIndex extends React.Component {
                 >
                   <Link
                     style={{ boxShadow: 'none' }}
-                    to={post.node.frontmatter.path}
+                    to={post.node.frontmatter.slug}
                   >
                     {post.node.frontmatter.title}
                   </Link>
