@@ -8,7 +8,7 @@ function TagPage(props) {
   const postLinks = posts.map(post => {
     return (
       <li key={post.node.id}>
-        <Link to={post.node.frontmatter.path}>
+        <Link to={post.node.frontmatter.slug}>
           {post.node.frontmatter.title}
         </Link>
       </li>
