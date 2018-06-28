@@ -31,6 +31,14 @@ def wojewodztwa_view(request):
     return HttpResponse(voivodeships_as_geojson, content_type='json')
 ```
 
+Also add following setting into `settings.py`:
+
+```python
+SERIALIZATION_MODULES = {
+     "geojson": "django.contrib.gis.serializers.geojson",
+  }
+```
+
 [GeoJSON](http://geojson.org/) is open format for encoding geographical
 data. It's based on JSON.
 
@@ -202,14 +210,14 @@ is to dump GeoJSON to cache, I will use Redis as a cache database.
 First, install and check if Redis is working by:
 
 ```bash
-$ sudo apt-get install redis-server 
+$ sudo apt-get install redis-server
 $ redis-cli ping PONG
 ```
 
 Then it's time to install python bindings:
 
 ```bash
-$ pip install redis 
+$ pip install redis
 $ pip install django-redis-cache
 ```
 
@@ -257,3 +265,19 @@ That's all: you have working GeoDjango application. The github repo is
 under this
 [link](https://github.com/krzysztofzuraw/personal-blog-projects/tree/master/blog_geodjango_leaflet)
 
+* Update 28.06.18:
+
+If you want your views to work with Django 2.0 you can use this snippet:
+
+```python
+import json
+from django.http import JsonResponse
+from django.core.serializers import serialize
+from .models import Point
+
+def points_view(request):
+    points_as_geojson = serialize( 'geojson',Point.objects.all())
+    return JsonResponse(json.loads(points_as_geojson))
+```
+
+Thanks to Phyo Min Htwe for providing this piece of code!

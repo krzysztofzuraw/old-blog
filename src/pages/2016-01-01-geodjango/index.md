@@ -5,7 +5,7 @@ slug: "/blog/2016/geodjango-leaflet-part-one.html"
 tags: 
     - django 
     - leaflet.js
-readNext: '/blog/2016/geodjango-leaflet-part-one.html'
+readNext: '/blog/2016/geodjango-leaflet-part-two.html'
 ---
 
 **Today is the day, when I will start my blog. I would like to publish
@@ -409,7 +409,7 @@ def point_load():
     with open(point_csv) as point_file:
         for line in point_file:
             name, lon, lat = line.split(',')
-            point = "POINT(%s %s)" % (lat.strip(), lon.strip())
+            point = "POINT(%s %s)" % (lon.strip(), lat.strip())
             Point.objects.create(name=name, geom=geos.fromstr(point))
 ```
 
